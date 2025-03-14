@@ -1,2 +1,3 @@
-message = "Hello, World!"
-print(mesage)
+name = 'ada lovelace'
+print(name.upper())
+print(name.lower())
