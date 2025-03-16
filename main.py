@@ -1,3 +1,2 @@
-name = 'ada lovelace'
-print(name.upper())
-print(name.lower())
+message = 'One of Python is strengths is its diverse community.'
+print(message)
