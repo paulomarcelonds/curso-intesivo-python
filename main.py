@@ -1,2 +1,2 @@
-message = 'One of Python is strengths is its diverse community.'
-print(message)
+message = 25
+print('Eu tenho ' + str(message) + ' anos de idade.')
