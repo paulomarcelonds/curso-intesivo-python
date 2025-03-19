@@ -1,7 +1,7 @@
 """
 Este é um comentário de múltiplas linhas.
 Python não usa comentários multilinhas nativamente,
-mas strings de múltiplas linhas podem ser usadas assim."
+mas strings de múltiplas linhas podem ser usadas assim.
 """
 
 
