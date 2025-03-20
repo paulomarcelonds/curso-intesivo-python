@@ -1,2 +1,2 @@
-message = 25
-print('Eu tenho ' + str(message) + ' anos de idade.')
+names = ["john", "roger", "petter", "dudu", "edu"]
+print(names[2].title())
