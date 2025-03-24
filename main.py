@@ -1,3 +1,4 @@
-names = ["john", "roger", "petter", "dudu", "edu"]
-
-print("Meu nome é " + names[0].title() + ".") 
+motocycles = ['honda', 'yamaha', 'ninja']
+print(motocycles)
+motocycles[0] = 'ducati'
+print(motocycles)
