@@ -1,4 +1,3 @@
 motocycles = ['honda', 'yamaha', 'ninja']
-print(motocycles)
-motocycles[0] = 'ducati'
+motocycles.insert(0,'cg titan')
 print(motocycles)
