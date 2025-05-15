@@ -1,3 +1,5 @@
-motocycles = ['honda', 'yamaha', 'ninja']
-motocycles.insert(0,'cg titan')
-print(motocycles)
+bicicletas = ['caloi', 'monark', 'bmx']
+print(bicicletas)
+
+ultima_bicicleta = bicicletas.pop(1)
+print(ultima_bicicleta)
